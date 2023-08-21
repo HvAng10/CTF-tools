@@ -1,0 +1,15 @@
+<010EditorNews ver="1.0" revision="28">
+    <newversion>6.0.2</newversion>
+    <item link="010editor/latest_version.html" minVersion="3.0.0" maxVersion="6.0.1">010 Editor v6.0.2 Released - Click here for details</item>
+    <item link="-tutorialwriting" minVersion="6.0" maxVersion="6.0">New: View the Writing Binary Templates tutorial.</item>
+    <item link="-1400" minVersion="6.0" maxVersion="6.0">What's new in version 6.0?</item>
+    <item link="-1400" minVersion="5.0" maxVersion="5.0">What's new in version 5.0?</item>
+    <item link="-1400" minVersion="4.0" maxVersion="4.0">What's new in version 4.0?</item>
+    <item link="-1400" minVersion="3.2" maxVersion="3.2">What's new in version 3.2?</item>
+    <item link="-1400" minVersion="3.1" maxVersion="3.1">What's new in version 3.1?</item>
+    <item link="-1400" minVersion="3.0" maxVersion="3.0">What's new in version 3.0?</item>
+    <item link="010editor/mac_osx.html" minVersion="3.0.0" maxVersion="4.0">Mac OS X Version Now Available</item>
+    <item link="-tutorial">View a short tutorial on using Binary Templates</item>
+    <item link="-1000">Getting started with 010 Editor</item>
+    <item link="010editor/templates/">Visit the online template repository</item>
+</010EditorNews>
